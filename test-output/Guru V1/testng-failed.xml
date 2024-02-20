@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Guru V1]">
+  <test name="com.guruv1.login(failed)">
+    <classes>
+      <class name="com.guruv1.login.Login01_CreateAccountAndLogin">
+        <methods>
+          <include name="TC02_Login"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.guruv1.login.Login01_CreateAccountAndLogin -->
+    </classes>
+  </test> <!-- com.guruv1.login(failed) -->
+</suite> <!-- Failed suite [Guru V1] -->

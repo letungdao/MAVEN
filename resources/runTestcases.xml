@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Guru V1" parallel="false">
+	<test name="com.guruv1.login">
+		<classes>
+			<class name="com.guruv1.login.Login01_CreateAccountAndLogin" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
